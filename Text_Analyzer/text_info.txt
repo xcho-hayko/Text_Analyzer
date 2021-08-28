@@ -1,0 +1,6 @@
+All information about this text. 
+Sentances Count is: 6
+Words Count is: 146
+Letters Count is: 750
+Most Repeated Word is: and
+Most Repeated letter is: e
